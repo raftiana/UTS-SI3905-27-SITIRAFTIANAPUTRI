@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">UTS-SI3905-27-SITIRAFTIANAPUTRI</string>
+    <string-array name="array">
+        <item>Januari</item>
+        <item>Februari</item>
+        <item>Maret</item>
+        <item>April</item>
+        <item>Mei</item>
+        <item>Juni</item>
+        <item>Juli</item>
+        <item>Agustus</item>
+        <item>September</item>
+        <item>Oktober</item>
+        <item>November</item>
+        <item>Desember</item>
+    </string-array>
+</resources>
